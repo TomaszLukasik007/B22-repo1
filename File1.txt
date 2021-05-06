@@ -1,1 +1,4 @@
 B22 Learning Git
+
+Yay we made first commit
+It contains the changes you made
